@@ -1,4 +1,4 @@
-[个人博客查看原文](ttp://blog.csdn.net/android_msk/article/details/77856901)
+[个人博客查看原文](http://blog.csdn.net/android_msk/article/details/77856901)
 
 &emsp;&emsp;排序算法可以分为内部排序和外部排序，内部排序是数据记录在内存中进行排序，而外部排序是因排序的数据很大，一次不能容纳全部的排序记录，在排序过程中需要访问外存。
 
