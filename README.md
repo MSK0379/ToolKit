@@ -75,8 +75,8 @@ public static void ShellUp(int[] array){
 ```
 ## 选择排序(Selection sort)
 ### 简单选择排序
-![简单选择排序示意图](http://osz73wqbv.bkt.clouddn.com//sort/selection_sort_animation.gif)
 
+![简单选择排序示意图](http://osz73wqbv.bkt.clouddn.com//sort/selection_sort_animation.gif)
 &emsp;&emsp;简单选择排序也是一种简单直观的排序算法。   
 算法实现：
 
